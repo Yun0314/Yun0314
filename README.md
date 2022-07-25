@@ -1,5 +1,5 @@
 ### Hi there 🐈 I am Miwa.
-💼 With more then 2 years in front-end development and maintenance.
+💼 With more then 3 years in front-end development and maintenance.
 
 📋 English Resume - [CakeResume](https://www.cakeresume.com/504170169)
 
